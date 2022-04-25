@@ -1,0 +1,9 @@
+import os
+IMG_FILE = os.path.join("..", "img")
+DATA_FOLDER = os.path.join("..", "data")
+SMART_BETA_TICKERS = ["VTV", "VUG", "IWF", "VIG" ,"IWD", "VYM", "SCHD", "RSP", "IVW", "USMV"]
+OVERALL_ESG_TICKERS = ["ESGV", "ESGE", "XVV", "VSGX", "SUSB"]
+ENVIRONMENT_ESG_TICKERS = ["ICLN", "CNRG", "CRBN", "SPYX", "ERTH"]
+SOCIAL_ESG_TICKERS = ["DSI", "SUSA", "NUEM", "ICAN", "SHE"]
+INDEX_TRACKER_TICKERS = ["SPY", "IWM", "QQQ"]
+SMART_BETA_ESG_TICKERS = ["RSPE", "MVEE.SW", "RAFE"]
